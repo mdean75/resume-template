@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Michael DeAngelo Resume"
+description: "Resume for Michael DeAngelo"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Michael DeAngelo"
-resume_title:                   "11 Betsy's Flag Ct, O'Fallon, MO  |  (618)410-3719"
+resume_title:                   "11 Betsy's Flag Ct, O'Fallon, MO | (618)410-3719"
 resume_contact_email:           "deangelomp@gmail.com"
 resume_contact_telephone:       "(618)410-3719"
 resume_contact_address:         "11 Betsy's Flag Ct, O'Fallon, MO"
