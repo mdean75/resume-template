@@ -7,26 +7,20 @@
     - award: Honor's list
   summary: Coursework included Java I & II, Calculus, Computer Algorithms
 
-- degree: Building Web Applications in PHP certificate
+- degree: Web Applications for Everybody Specialization
   degree: Building Database Applications in PHP certificate
   uni: University of Michigan on Courseraa
   year: 2018
   summary: Series of Coursera web-based courses on building PHP web applications
   awards:
-     - award: <a href="https://coursera.org/account/accomplishments/certificate/XFL529WXZLZB">Building Web Applications in PHP certificat</a>
+     - award: <a href="https://coursera.org/account/accomplishments/certificate/XFL529WXZLZB">Building Web Applications in PHP certificate</a>
+     - award: <a href="https://coursera.org/account/accomplishments/certificate/L9ZB2LVPAUTZ">Introduction to Structured Query Language</a>
      - award: <a href="https://coursera.org/account/accomplishments/certificate/23EZCTPQXWBL">Building Database Applications certificate</a>
-
-
-- degree: Building Database Applications in PHP certificate
-  uni: University of Michigan on Courseraa
-  year: 2018
-  summary: Courseraa web-based course on building PHP web database applications
-  award: <a href="https://coursera.org/account/accomplishments/certificate/23EZCTPQXWBL">Link to certificate</a>
 
 - degree: Associates Degree, Computer Programming and Business Mgmt
   uni: Sanford Brown College
   year: 1993 &mdash; 1995
-  award: Dean's list
+ # award: Dean's list
  # summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: High School Diploma
@@ -34,3 +28,11 @@
   year: 1993
  # award: Least likely to graduate College
  # summary: You can choose to have either a single or multiple awards
+
+- degree: Other education
+  # uni: 
+  # year:
+  awards:
+     - award: IHM Health Studies, Paramedic training, 2006 &mdash; 2007
+     - award: St. Louis Community College, Firefighter training, 2010
+     - award: Ranken Technical College, Industrial Electricity and Electronics, 2002 &mdash; 2004
