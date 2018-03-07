@@ -30,9 +30,9 @@
  # summary: You can choose to have either a single or multiple awards
 
 
-- # degree: Various
+- degree: Various education
   uni: Other Education
-  # year:
+  year: Various years
   awards:
      - award: IHM Health Studies, Paramedic training, 2006 &mdash; 2007
      - award: St. Louis Community College, Firefighter training, 2010
