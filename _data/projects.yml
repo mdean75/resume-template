@@ -1,9 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-  # mdeangelo.000webhostapp.com
+  #mdeangelo.000webhostapp.com
 - project: NJCAD Overtime Database
   role: Sole Software Designer and Developer
   duration: 2016 &mdash; Present
-  url: "mdeangelo.000webhostapp.com"
+  url: ""
   description: Developed web application for overtime tracking and shift reporting for ambulance district utilizing PHP and MySQL with bootstrap library and fpdf and PHPMailer packages. Improved communication through auto generating and emailing the overtime list in pdf format, and providing shift logging feature with automatic emailing for duty officers. 
