@@ -1,6 +1,6 @@
 # Site settings
 #title: "Michael DeAngelo Resume"
-description: "Resume for Michael DeAngelo"
+#description: "Resume for Michael DeAngelo"
 
 # Build settings
 markdown: kramdown
