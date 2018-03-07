@@ -6,4 +6,4 @@
   role: Sole Software Design and Developer
   duration: 2016 &mdash; Present
   Demo url: "#"
-  description: Developed web application for overtime tracking database and shift reporting for ambulance district.  Application was built using PHP and MySQL with the Bootstrap library as well as fpdf and PHPMailer packages.  Results of the project streamlined the work flow process, improved communication through auto generating the mandatory overtime list, and provided shift logging feature of duty officers. 
+  description: Developed web application for overtime tracking database and shift reporting for ambulance district.  Application was built using PHP and MySQL with the Bootstrap library as well as fpdf and PHPMailer packages.  Project resulted in streamlining the work flow process by improving communication through auto generating and emailing the generated mandatory overtime list in pdf format, and providing shift logging feature for duty officers. 
