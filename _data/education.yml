@@ -28,8 +28,8 @@
  # award: Least likely to graduate College
  # summary: You can choose to have either a single or multiple awards
 
--  degree: 
-  # uni: Other Education
+-  degree: Various
+   uni: Other Education
   # year:
   awards:
      - award: IHM Health Studies, Paramedic training, 2006 &mdash; 2007
