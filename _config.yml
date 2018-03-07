@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Michael DeAngelo"
-resume_title:                   "Software Developer"
+resume_title:                   "Junior Software Developer"
 resume_contact_email:           "deangelomp@gmail.com"
 resume_contact_telephone:       "(618)410-3719"
 resume_contact_address:         "11 Betsy's Flag Ct, O'Fallon, MO"
 resume_header_contact_info: "11 Betsy's Flag Ct, O'Fallon, MO  &nbsp; &nbsp; | &nbsp; &nbsp;  (618)410-371999  &nbsp; &nbsp;  | &nbsp; &nbsp;  "https://github.com/mdean75"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: "<p>I am a Highly motivated, skilled and knowledgeable computer science student with knowledge of programming and computer applications.  Looking for an opportunity to apply my knowledge and grow as a software developer.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
