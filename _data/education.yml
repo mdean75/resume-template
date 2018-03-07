@@ -1,14 +1,26 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
+- degree: Bachelor's Degree, Computer Science (IN PROGRESS)
+  uni: University of Maryland University College
+  year: Expected matriculation year 2020
   awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award:Current GPA: 3.8
+    - award:Honor's list
+  summary: Coursework included Java I & II, Calculus, Computer Algorithms
+
+- degree: Building Web Applications in PHP certificate
+  uni: University of Michigan on Courseraa
+  year: 2017
+  summary: Courseraa web-based course on building PHP web applications
+  award: <a href="https://coursera.org/account/accomplishments/certificate/XFL529WXZLZB">Link to certificate</a>
+
+- degree: Associates Degree, Computer Programming and Business Management
+  uni: Sanford Brown College
+  year: 1993 &mdash; 1995
+  award: Dean's list
+ # summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+  uni: Gibault Catholic High School
+  year: 1993
+ # award: Least likely to graduate College
+ # summary: You can choose to have either a single or multiple awards
