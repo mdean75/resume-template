@@ -8,10 +8,13 @@
   summary: Coursework included Java I & II, Calculus, Computer Algorithms
 
 - degree: Building Web Applications in PHP certificate
+  degree: Building Database Applications in PHP certificate
   uni: University of Michigan on Courseraa
-  year: 2017
-  summary: Courseraa web-based course on building PHP web applications
-  award: <a href="https://coursera.org/account/accomplishments/certificate/XFL529WXZLZB">Link to certificate</a>
+  year: 2018
+  summary: Series of Coursera web-based courses on building PHP web applications
+  awards:
+     - award: <a href="https://coursera.org/account/accomplishments/certificate/XFL529WXZLZB">Building Web Applications in PHP certificat</a>
+     - award: <a href="https://coursera.org/account/accomplishments/certificate/23EZCTPQXWBL">Building Database Applications certificate</a>
 
 
 - degree: Building Database Applications in PHP certificate
