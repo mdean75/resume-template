@@ -7,8 +7,7 @@
     - award: Honor's list
   summary: Coursework included Java I & II, Calculus, Computer Algorithms
 
-- degree: Web Applications for Everybody Specialization
-  degree: Building Database Applications in PHP certificate
+- degree: Building Database Applications in PHP certificate
   uni: University of Michigan on Courseraa
   year: 2018
   summary: Series of Coursera web-based courses on building PHP web applications
@@ -29,8 +28,8 @@
  # award: Least likely to graduate College
  # summary: You can choose to have either a single or multiple awards
 
-- degree: Other education
-  # uni: 
+- # degree: Other education
+  # uni: Other Education
   # year:
   awards:
      - award: IHM Health Studies, Paramedic training, 2006 &mdash; 2007
