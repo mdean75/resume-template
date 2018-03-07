@@ -28,7 +28,7 @@
  # award: Least likely to graduate College
  # summary: You can choose to have either a single or multiple awards
 
-- # degree: Other education
+-  degree: 
   # uni: Other Education
   # year:
   awards:
