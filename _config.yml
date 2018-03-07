@@ -15,7 +15,7 @@ resume_title:                   "Software Developer"
 resume_contact_email:           "deangelomp@gmail.com"
 resume_contact_telephone:       "(618)410-3719"
 resume_contact_address:         "11 Betsy's Flag Ct, O'Fallon, MO"
-resume_header_contact_info: "11 Betsy's Flag Ct, O'Fallon, MO  &nbsp; &nbsp; | &nbsp; &nbsp;  (618)410-3719  &nbsp; &nbsp;  | &nbsp; &nbsp;   https://github.com/mdean75"
+resume_header_contact_info: "11 Betsy's Flag Ct, O'Fallon, MO  &nbsp; &nbsp; | &nbsp; &nbsp;  (618)410-371999  &nbsp; &nbsp;  | &nbsp; &nbsp;  "https://github.com/mdean75"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
@@ -44,7 +44,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/mdean75"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://mdeangelo.000webhost.com"
+  resume_website_url:           "http://mdeangelo.000webhostapp.com"
 resume_print_social_links:      true
 
 # Design settings
