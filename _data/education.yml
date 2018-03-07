@@ -1,7 +1,7 @@
 # Degree
 - degree: Bachelor's Degree, Computer Science (IN PROGRESS)
   uni: University of Maryland University College
-  year: Expected matriculation year 2020
+  year: Expected completion 2020
   awards:
     - award: Current GPA 3.8
     - award: Honor's list
@@ -13,7 +13,14 @@
   summary: Courseraa web-based course on building PHP web applications
   award: <a href="https://coursera.org/account/accomplishments/certificate/XFL529WXZLZB">Link to certificate</a>
 
-- degree: Associates Degree, Computer Programming and Business Management
+
+- degree: Building Database Applications in PHP certificate
+  uni: University of Michigan on Courseraa
+  year: 2018
+  summary: Courseraa web-based course on building PHP web database applications
+  award: <a href="https://coursera.org/account/accomplishments/certificate/23EZCTPQXWBL">Link to certificate</a>
+
+- degree: Associates Degree, Computer Programming and Business Mgmt
   uni: Sanford Brown College
   year: 1993 &mdash; 1995
   award: Dean's list
