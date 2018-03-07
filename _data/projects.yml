@@ -6,4 +6,4 @@
   role: Sole Software Designer and Developer
   duration: 2016 &mdash; Present
   url: "mdeangelo.000webhostapp.com"
-  description: Developed web application for overtime tracking and shift reporting for ambulance district.  Application built using PHP and MySQL with the Bootstrap library and fpdf and PHPMailer packages.  Project resulted in improving communication through auto generating and emailing the mandatory overtime list in pdf format, and providing shift logging feature with automatic emailing for duty officers. 
+  description: Developed web application for overtime tracking and shift reporting for ambulance district utilizing PHP and MySQL with bootstrap library and fpdf and PHPMailer packages. Improved communication through auto generating and emailing the mandatory overtime list in pdf format, and providing shift logging feature with automatic emailing for duty officers. 
