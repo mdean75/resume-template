@@ -18,7 +18,7 @@ body{
 }
 
 .background-pattern {
- // background-image: url(http://www.designbolts.com/wp-content/uploads/2012/12/Simple-Horizontal-Seamless-Pattern-For-Website-Background.jpg);	
+  background-image: url(http://www.designbolts.com/wp-content/uploads/2012/12/Simple-Horizontal-Seamless-Pattern-For-Website-Background.jpg);	
 }
 
 .wrapper:before,
@@ -32,14 +32,14 @@ body{
 }
 
 .body-box {
-	//padding: 30px;
+	padding: 30px;
 	margin-top: 30px;
 	margin-left: 10px;
 	margin-right: 15px;
 	border-style: groove;
 	border-color: black;
 	border-width: 1px;
-	background: cyan;
+	//background: cyan;
 	}
 
 // clearfix (now called group,
