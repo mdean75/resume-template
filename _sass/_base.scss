@@ -28,6 +28,13 @@ body{
   zoom: 1;
 }
 
+#body-box {
+		padding: 30px;
+		margin: 30px;
+		border-style: groove;
+		border-color: black;
+		border-width: 1px;
+	}
 // clearfix (now called group,
 // via http://css-tricks.com/snippets/css/clear-fix/)
 .group:before,
