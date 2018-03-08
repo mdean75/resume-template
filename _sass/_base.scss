@@ -25,7 +25,8 @@ body{
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }
 .wrapper {
-  max-width: 728px;
+  //max-width: 728px;
+  max-width: 800;
   padding: 0 24px;
   margin: 0 auto;
   zoom: 1;
@@ -41,7 +42,6 @@ body{
 	border-color: black;
 	border-width: 1px;
 	background: $white;
-	width: 70%;
 	}
 
 // clearfix (now called group,
