@@ -15,8 +15,9 @@ body{
   color: $text_color;
   font-size: 16px;
   line-height: 1.5;
-}
 
+		background-image: url(http://www.designbolts.com/wp-content/uploads/2012/12/Simple-Horizontal-Seamless-Pattern-For-Website-Background.jpg);
+	}
 .wrapper:before,
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }
